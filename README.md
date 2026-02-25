@@ -1,4 +1,3 @@
-# Weather-Report
 # Weather Dashboard 
 This is a React + Vite weather dashboard that fetches and displays **global** weather data.
 
@@ -31,25 +30,11 @@ Create a `.env` file inside `frontend/`:
 VITE_INDIANAPI_KEY=YOUR_API_KEY_HERE
 ```
 
-Notes:
-
-- Vite only exposes environment variables that start with `VITE_`.
-- Keep your API key private.
-
 ### 3) Start the dev server
 
 ```bash
 npm run dev
 ```
-
-### 4) Production build (optional)
-
-```bash
-npm run build
-npm run preview
-```
-
-## API details
 
 ### Provider
 
